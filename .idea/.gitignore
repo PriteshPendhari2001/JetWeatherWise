@@ -1,5 +1,15 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-Model/Const.kt
 
+# Ignore local settings
+local.properties
+
+# Ignore build folders
+.gradle
+/build
+/app/build
+
+# Ignore IDE settings
+.idea/
+*.iml
