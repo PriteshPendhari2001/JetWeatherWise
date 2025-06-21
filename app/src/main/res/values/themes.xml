@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.JetWeatherWise" parent="android:Theme.Material.Light.NoActionBar.Fullscreen">
+<!--        //this item remove duplicate splash Screen-->
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+</resources>
+
